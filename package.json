@@ -2,11 +2,13 @@
   "name": "tauri-solid-tailwind-shadcn",
   "version": "0.1.0",
   "author": "ACRae",
+  "description": "",
   "type": "module",
   "scripts": {
-    "dev": "vite dev",
+    "start": "vite",
+    "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
+    "serve": "vite preview",
     "tauri": "tauri"
   },
   "license": "MIT",
