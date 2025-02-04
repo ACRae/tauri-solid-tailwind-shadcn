@@ -11,8 +11,18 @@ A starter template for easy and fast cross platform app development using Tauri 
 * [Shadcn Solid](https://shadcn-solid.com/) - Beautifully designed components that you can copy and paste into your apps.
 * [Tabler Icons](https://tabler.io/docs/icons/libraries/solidjs) - Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
 
+
 ## Requirements
 * [Tauri Prerequisistes](https://tauri.app/start/prerequisites/) - In order to use tauri you might need to install some dependencies.
+
+
+## Screenshots
+
+<p float="left">
+    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/default_theme.png" width="200" />
+    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/theme_switch.png" width="200" />
+    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/light_theme.png" width="200" />
+</p>
 
 
 ## Getting Started
