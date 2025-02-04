@@ -1,13 +1,14 @@
-import Footer from "@/components/Footer"
-import Header from "@/components/Header"
 import Main from "@/components/Main"
+import TopMenuBar from "@/components/TopMenuBar"
+import ThemeProvider  from "@/components/theme/ThemeProvider"
 
 export default function App() {
   return (
-    <div class="min-h-screen flex flex-col items-center justify-center bg-gray-100">
-      <Header />
-      <Main />
-      <Footer />
-    </div>
+    <ThemeProvider>
+      <TopMenuBar />
+      <div class="mt-10 flex flex-col items-center justify-center">
+        <Main />
+      </div>
+    </ThemeProvider>
   )
 }
