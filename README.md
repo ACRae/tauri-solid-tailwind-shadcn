@@ -19,9 +19,9 @@ A starter template for easy and fast cross platform app development using Tauri 
 ## Screenshots
 
 <p float="left">
-    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/default_theme.png" width="200" />
-    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/theme_switch.png" width="200" />
-    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/light_theme.png" width="200" />
+    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/default_theme.png"/>
+    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/theme_switch.png"/>
+    <img src="https://github.com/ACRae/tauri-solid-tailwind-shadcn/raw/main/images/light_theme.png"/>
 </p>
 
 
